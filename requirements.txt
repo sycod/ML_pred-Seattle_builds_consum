@@ -1,0 +1,17 @@
+datasets        # (Hugging Face datasets)
+black
+fastapi
+ipython
+mlflow
+notebook
+pandasgui
+pipreqsnb
+pylint
+pytest
+scikit-learn
+seaborn
+session_info
+torch           # (pytorch)
+transformers    # (Hugging Face pre-trained models, etc.)
+unidecode
+uvicorn
